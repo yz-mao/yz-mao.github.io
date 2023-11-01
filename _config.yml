@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuzhu Mao"
 title_separator          : "-"
 name                     : &name "Yuzhu Mao"
-description              : &description "MSc at Tsinghua University"
+description              : &description "Research assistant at Tsinghua University"
 url                      : https://yz-mao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yz-mao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuzhu Mao"
   avatar           : "profile.png"
-  bio              : "MSc student at Tsinghua University"
+  bio              : "Research assistant at Tsinghua University, focus on artificial intelligence and its combination with human-computer interaction(HCI)/embodied AI"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=KaQvQIwAAAAJ"
-  email            :
+  email            : "myz20@tsinghua.org.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

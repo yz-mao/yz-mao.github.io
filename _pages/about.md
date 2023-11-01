@@ -14,7 +14,7 @@ My previous research focused on artificial intelligence, with expertise in feder
 
 
 News
-======
+------
 - Joined Tsinghua-Berkeley Shenzhen Institute as research assistant. (09/2023)
 - One paper accepted in TMC. (06/2023)
 - Completed Master defense. (05/2023)
@@ -28,7 +28,7 @@ News
 
 
 Getting started
-======
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.

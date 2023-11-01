@@ -15,16 +15,16 @@ My previous research focused on artificial intelligence, with expertise in feder
 
 News
 ------
-- Joined Tsinghua-Berkeley Shenzhen Institute as research assistant. (09/2023)
-- One paper accepted in TMC. (06/2023)
-- Completed Master defense. (05/2023)
-- Submitted Master thesis. (04/2023)
-- Joined Meituan UAV Lab as a research intern. (07/2022)
-- One paper accepted in ACM TIST. (01/2022)
-- Delievered a presentation at XXXX and won the best poster award. (07/2021)
-- Joined Tencent Robotics-X Lab as a research intern. (06/2021)
-- Joined Tsinghua-Berkeley Shenzhen Institute as a master student in data science and information technology track. (09/2020)
-- Graduated with honor from Wuhan University. (06/2020)
+- Joined Tsinghua-Berkeley Shenzhen Institute as a research assistant (09/2023).
+- Had one paper accepted in TMC (06/2023).
+- Completed the Master's defense (05/2023).
+- Submitted the Master's thesis (04/2023).
+- Joined Meituan UAV Lab as a research intern (07/2022).
+- Had one paper accepted in ACM TIST (01/2022).
+- Delivered a presentation at XXXX and received the Best Poster Award (07/2021).
+- Joined Tencent Robotics-X Lab as a research intern (06/2021).
+- Enrolled at Tsinghua-Berkeley Shenzhen Institute as a master's student in the data science and information technology track (09/2020).
+- Graduated with honors from Wuhan University (06/2020).
 
 
 Getting started

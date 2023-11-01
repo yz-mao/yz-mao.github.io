@@ -8,11 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+I am a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute. I hold a BEng degree from Wuhan University and an MEng degree from Tsinghua University, supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
 
-A data-driven personal website
+My previous research focused on artificial intelligence, with expertise in federated learning systems. Currently, I am exploring deep learning theory and its applications in human-computer interaction (HCI) and embodied AI, particularly in collaboration with edge devices. I am actively seeking opportunities for collaborative projects in these domains.
+
+
+News
 ======
-Hello.
+- Joined Tsinghua-Berkeley Shenzhen Institute as research assistant. (09/2023)
+- One paper accepted in TMC. (06/2023)
+- Completed Master defense. (05/2023)
+- Submitted Master thesis. (04/2023)
+- Joined Meituan UAV Lab as a research intern. (07/2022)
+- One paper accepted in ACM TIST. (01/2022)
+- Delievered a presentation at XXXX and won the best poster award. (07/2021)
+- Joined Tencent Robotics-X Lab as a research intern. (06/2021)
+- Joined Tsinghua-Berkeley Shenzhen Institute as a master student in data science and information technology track. (09/2020)
+- Graduated with honor from Wuhan University. (06/2020)
+
 
 Getting started
 ======

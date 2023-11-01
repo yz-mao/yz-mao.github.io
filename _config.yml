@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuzhu Mao"
 title_separator          : "-"
 name                     : &name "Yuzhu Mao"
-description              : &description "Research assistant at Tsinghua University"
+description              : &description "Research assistant at Tsinghua University focus on artificial intelligence and its combination with human-computer interaction(HCI)/embodied AI"
 url                      : https://yz-mao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yz-mao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuzhu Mao"
   avatar           : "profile.png"
-  bio              : "Research assistant at Tsinghua University, focus on artificial intelligence and its combination with human-computer interaction(HCI)/embodied AI"
+  bio              : "Research assistant at Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

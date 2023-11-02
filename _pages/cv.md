@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Thank you for interests in my experiences. Here is my [cv](https://github.com/yz-mao/yz-mao.github.io/files/Resume-Yuzhu Mao-2023.pdf) for more details.
+Thank you for interests in my experiences. Here is my full [cv](https://github.com/yz-mao/yz-mao.github.io/files/Resume-Yuzhu Mao-2023.pdf) with more details.
 
 Education
 ------

@@ -39,7 +39,7 @@ Publications
 Education Background
 ------
 - **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
-- **BEng** in Computer Science and Engineering, Wuhan University, China (2016-2020)
+- **BEng** in Information Security, Wuhan University, China (2016-2020)
 
 Work Experience
 ------

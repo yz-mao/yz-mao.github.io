@@ -30,12 +30,11 @@ News
 
 Publications
 ------
-- Zhao Z\*, <u>Mao Y*</u>, Shi Z, et al. **AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**. arXiv preprint arXiv:2308.00258, 2023. [paper](https://arxiv.org/abs/2308.00258)
-- <u>Mao Y</u>, Zhao Z, Yang M, et al. **SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications**. IEEE Transactions on Mobile Computing (TMC), 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10185584/)
+- <u>Mao Y</u>, Zhao Z, Yan G, et al. **Communication-efficient federated learning with adaptive quantization**. ACM Transactions on Intelligent Systems and Technology (TIST), 2022. [paper](https://dl.acm.org/doi/full/10.1145/3510587)[video](https://github.com/yz-mao/yz-mao.github.io/files/AQG.mp4)
 - Zhao Z, <u>Mao Y</u>, Liu Y, et al. **Towards efficient communications in federated learning: A contemporary survey**. Journal of the Franklin Institute (JFI), 2023. [paper](https://arxiv.org/abs/2208.01200)
-- <u>Mao Y</u>, Zhao Z, Yan G, et al. **Communication-efficient federated learning with adaptive quantization**. ACM Transactions on Intelligent Systems and Technology (TIST), 2022. [paper](https://dl.acm.org/doi/full/10.1145/3510587)
-
-
+- <u>Mao Y</u>, Zhao Z, Yang M, et al. **SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications**. IEEE Transactions on Mobile Computing (TMC), 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10185584/)
+- Zhao Z\*, <u>Mao Y*</u>, Shi Z, et al. **AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**. arXiv preprint arXiv:2308.00258, 2023. [\[paper\]](https://arxiv.org/abs/2308.00258)
+- 
 Education Background
 ------
 - **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)

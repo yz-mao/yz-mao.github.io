@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuzhu Mao"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/yz-mao/yz-mao.github.io/files/profile.jpg"
   bio              : "Research assistant at Tsinghua University"
   location         : "Shenzhen, China"
   employer         :

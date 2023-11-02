@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuzhu Mao"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Yuzhu Mao"
 description              : &description "Research assistant at Tsinghua University focus on artificial intelligence and its combination with human-computer interaction(HCI)/embodied AI"

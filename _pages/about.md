@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute. I hold a BEng degree from Wuhan University and an MEng degree from Tsinghua University, supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
+I am a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI). I hold a BEng degree from Wuhan University and an MEng degree from Tsinghua University, supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
 
 My previous research focused on artificial intelligence, with expertise in federated learning systems. Currently, I am exploring deep learning theory and its applications in human-computer interaction (HCI) and embodied AI, particularly in collaboration with edge devices. I am actively seeking opportunities for collaborative projects in these domains.
 
@@ -19,43 +19,47 @@ News
 - Had one paper accepted in TMC (06/2023).
 - Completed the Master's defense (05/2023).
 - Submitted the Master's thesis (04/2023).
+- Had one survey paper accepted in JFI (01/2023).
 - Joined Meituan UAV Lab as a research intern (07/2022).
 - Had one paper accepted in ACM TIST (01/2022).
-- Delivered a presentation at XXXX and received the Best Poster Award (07/2021).
+- Delivered a presentation at TBSI Workshop on Learning Theory (WOLT) and received the Best Poster Award (07/2021).
 - Joined Tencent Robotics-X Lab as a research intern (06/2021).
 - Enrolled at Tsinghua-Berkeley Shenzhen Institute as a master's student in the data science and information technology track (09/2020).
 - Graduated with honors from Wuhan University (06/2020).
 
 
-Getting started
+Publications
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Zhao Z\*, `Mao Y`\*, Shi Z, et al. **AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**. arXiv preprint arXiv:2308.00258, 2023.
+- `Mao Y`, Zhao Z, Yang M, et al. **SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications**. IEEE Transactions on Mobile Computing (TMC), 2023.
+- Zhao Z, `Mao Y`, Liu Y, et al. **Towards efficient communications in federated learning: A contemporary survey**. Journal of the Franklin Institute (JFI), 2023.
+- `Mao Y`, Zhao Z, Yan G, et al. **Communication-efficient federated learning with adaptive quantization**. ACM Transactions on Intelligent Systems and Technology (TIST), 2022.
 
-Site-wide configuration
+
+Education Background
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
+- **BEng** in Computer Science and Engineering, Wuhan University, China (2016-2020)
 
-Create content & metadata
+Work Experience
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Research Intern** (06/2022-09/2022) in **Meituan UAV Lab**, Shenzhen, China.
+- **Research Intern** (06/2021-09/2021) in **Tencent Robotics-X Lab**, Shenzhen, China.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Research Interest
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Generalized and Interpretable Artificial Intelligence
+- Human-Computer Interaction with machine/deep learning
+- Embodied AI for well-being
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Reviewer Services
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Conferences: UbiComp, ICML, NeurIPS
+- Journals: JSAC, TIST, TMC
+
+Contact
+------
+- Email: myz20@tsinghua.org.cn
+- Address: Information Building 1101A, Tsinghua Shenzhen International Graduate School, Shenzhen, China
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.6827114536864!2d113.96735877376993!3d22.590967332299805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f28946a60645%3A0x4244adb2a8669d67!2z5riF5Y2O5aSn5a2m5rex5Zyz5Zu96ZmF56CU56m255Sf6Zmi!5e0!3m2!1szh-CN!2sus!4v1698898170625!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

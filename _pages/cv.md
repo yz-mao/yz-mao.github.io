@@ -33,7 +33,7 @@ Work Experience
 * Summer 2021: Research Intern
   * Tencent Robotics-X Lab
   * Contributions: an open-source JAX-based rigid body dynamics algorithm library
-  * Supervisor: [Dr. Chengzhou](https://scholar.google.com/citations?hl=zh-CN&user=tuCDlNIAAAAJ)
+  * Supervisor: [Dr. Cheng Zhou](https://scholar.google.com/citations?hl=zh-CN&user=tuCDlNIAAAAJ)
   
 Skills
 ------

@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI). I hold a BEng degree from Wuhan University and an MEng degree from Tsinghua University, supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
 
-My previous research focused on artificial intelligence, with expertise in federated learning systems. Currently, I am exploring deep learning theory and its applications in human-computer interaction (HCI) and embodied AI, particularly in collaboration with edge devices. I am actively seeking opportunities for collaborative projects in these domains.
+My previous research focused on artificial intelligence, with expertise in federated learning systems. I was fortunate to have also received constructive comments and guidance from [Prof. Tian Lan](https://www.seas.gwu.edu/tian-lan), [Prof. Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1197.htm), and [Prof. Linqi Song](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html). Currently, I am exploring deep learning theory and its applications in human-computer interaction (HCI) and embodied AI, particularly in collaboration with edge devices. I am actively seeking opportunities for collaborative projects in these domains.
 
 
 News

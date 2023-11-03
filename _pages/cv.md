@@ -23,7 +23,7 @@ Work Experience
 * Fall 2023: Research Assistant
   * Tsinghua-Berkeley Shenzhen Institute
   * Duties: research and team management
-  * Supervisor: Prof. Wenbo Ding
+  * Supervisor: [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
 
 * Summer 2022: Research Intern
   * Meituan UAV Lab

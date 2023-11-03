@@ -34,7 +34,7 @@ Publications
 - Zhao Z, <u>Mao Y</u>, Liu Y, et al. **Towards efficient communications in federated learning: A contemporary survey**. Journal of the Franklin Institute (JFI), 2023. [\[paper\]](https://arxiv.org/abs/2208.01200)
 - <u>Mao Y</u>, Zhao Z, Yang M, et al. **SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications**. IEEE Transactions on Mobile Computing (TMC), 2023. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10185584/)
 - Zhao Z\*, <u>Mao Y*</u>, Shi Z, et al. **AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**. arXiv preprint arXiv:2308.00258, 2023. [\[paper\]](https://arxiv.org/abs/2308.00258)
-- 
+  
 Education Background
 ------
 - **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)

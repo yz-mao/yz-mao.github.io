@@ -23,17 +23,17 @@ Work Experience
 * Fall 2023: Research Assistant
   * Tsinghua-Berkeley Shenzhen Institute
   * Duties: research and team management
-  * Supervisor: [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
+  * Supervisor: [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm)
 
 * Summer 2022: Research Intern
   * Meituan UAV Lab
   * Contributions: a 2D to 3D platform for large-scale UAV simulations
-  * Supervisor: [Dr. Tianjian Chen](https://www.researchgate.net/profile/Tianjian-Chen-3)
+  * Mentor: [Dr. Tianjian Chen](https://www.researchgate.net/profile/Tianjian-Chen-3)
     
 * Summer 2021: Research Intern
   * Tencent Robotics-X Lab
   * Contributions: an open-source JAX-based rigid body dynamics algorithm library
-  * Supervisor: [Dr. Cheng Zhou](https://scholar.google.com/citations?hl=zh-CN&user=tuCDlNIAAAAJ)
+  * Mentor: [Dr. Cheng Zhou](https://scholar.google.com/citations?hl=zh-CN&user=tuCDlNIAAAAJ)
   
 Skills
 ------

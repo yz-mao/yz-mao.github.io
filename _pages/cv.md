@@ -53,7 +53,7 @@ Publications
 - Zhao Z, <u>Mao Y</u>, Liu Y, et al. **Towards efficient communications in federated learning: A contemporary survey**. Journal of the Franklin Institute (JFI), 2023. [paper](https://arxiv.org/abs/2208.01200)
 - <u>Mao Y</u>, Zhao Z, Yan G, et al. **Communication-efficient federated learning with adaptive quantization**. ACM Transactions on Intelligent Systems and Technology (TIST), 2022. [paper](https://dl.acm.org/doi/full/10.1145/3510587)
 
-Service and leadership
+Services and Leadership
 ------
 * Reviewer Services: UbiComp, ICML, NeurIPS, JSAC, TIST, TMC
 * Currently leading an active research group of 7 master students

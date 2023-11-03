@@ -45,7 +45,7 @@ Work Experience
 - **Research Intern** (06/2022-09/2022) in **Meituan UAV Lab**, Shenzhen, China.
 - **Research Intern** (06/2021-09/2021) in **Tencent Robotics-X Lab**, Shenzhen, China.
 
-Research Interest
+Research Interests
 ------
 - Generalized and Interpretable Artificial Intelligence
 - Human-Computer Interaction with machine/deep learning

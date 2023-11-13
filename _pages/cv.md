@@ -18,6 +18,12 @@ Education
   
 *Note: Before transferring to the School of Cyber Science and Engineering in 2018, I spent two years studying in the School of Computer Science and Engineering in Wuhan University.
 
+National Awards
+------
+-National Scholarship (10/2018)
+-Second Prize, National College Student Information Security Contest (08/2019)
+-Cyber Security Scholarship (10/2019)[\[Scholarship Details Page\]](http://www.cidf.net/2019-04/30/c_1124436176.htm)[\[Awardee List\]](http://www.cidf.net/2019-08/12/c_1124866586.htm) 
+
 Work Experience
 ------
 * Fall 2023: Research Assistant

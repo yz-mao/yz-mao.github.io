@@ -14,7 +14,9 @@ Thank you for interests in my experiences. Here is my full [cv](http://yz-mao.gi
 Education
 ------
 - **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
+   - GPA: 3.85/4.0   
 - **BEng** in Information Security, Wuhan University, China (2016-2020)
+   - GPA: 3.87/4.0 
   
 *Note: Before transferring to the School of Cyber Science and Engineering in 2018, I spent two years studying in the School of Computer Science and Engineering in Wuhan University.
 

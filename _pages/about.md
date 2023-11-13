@@ -16,6 +16,7 @@ My previous research focused on artificial intelligence, with expertise in feder
 News
 ------
 - Joined Tsinghua-Berkeley Shenzhen Institute as a research assistant (09/2023).
+- Had one another paper accepted in TMC (11/2023).
 - Had one paper accepted in TMC (06/2023).
 - Completed the Master's defense (05/2023).
 - Submitted the Master's thesis (04/2023).
@@ -33,7 +34,7 @@ Publications
 - <u>Mao Y</u>, Zhao Z, Yan G, et al. **Communication-efficient federated learning with adaptive quantization**. ACM Transactions on Intelligent Systems and Technology (TIST), 2022. [\[paper\]](https://dl.acm.org/doi/full/10.1145/3510587)[\[video\]](https://youtu.be/aryLdgxRslc)
 - Zhao Z, <u>Mao Y</u>, Liu Y, et al. **Towards efficient communications in federated learning: A contemporary survey**. Journal of the Franklin Institute (JFI), 2023. [\[paper\]](https://arxiv.org/abs/2208.01200)
 - <u>Mao Y</u>, Zhao Z, Yang M, et al. **SAFARI: Sparsity-Enabled Federated Learning with Limited and Unreliable Communications**. IEEE Transactions on Mobile Computing (TMC), 2023. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10185584/)
-- Zhao Z\*, <u>Mao Y*</u>, Shi Z, et al. **AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**. arXiv preprint arXiv:2308.00258, 2023. [\[paper\]](https://arxiv.org/abs/2308.00258)
+- Zhao Z\*, <u>Mao Y*</u>, Shi Z, et al. **AQUILA: Communication Efficient Federated Learning with Adaptive Quantization of Lazily-Aggregated Gradients**. arXiv preprint arXiv:2308.00258, 2023. [\[paper\]](https://arxiv.org/abs/2308.00258) (accepted by TMC)
   
 Education Background
 ------

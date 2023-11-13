@@ -14,17 +14,17 @@ Thank you for interests in my experiences. Here is my full [cv](http://yz-mao.gi
 Education
 ------
 - **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
-   - GPA: 3.85/4.0   
+  - GPA: 3.85/4.0   
 - **BEng** in Information Security, Wuhan University, China (2016-2020)
-   - GPA: 3.87/4.0 
+  - GPA: 3.87/4.0 
   
 *Note: Before transferring to the School of Cyber Science and Engineering in 2018, I spent two years studying in the School of Computer Science and Engineering in Wuhan University.
 
 National Awards
 ------
--National Scholarship (10/2018)
--Second Prize, National College Student Information Security Contest (08/2019)
--Cyber Security Scholarship (10/2019)[\[Scholarship Details Page\]](http://www.cidf.net/2019-04/30/c_1124436176.htm)[\[Awardee List\]](http://www.cidf.net/2019-08/12/c_1124866586.htm) 
+- National Scholarship (10/2018)
+- Second Prize, National College Student Information Security Contest (08/2019)
+- Cyber Security Scholarship (10/2019) [\[Scholarship Details Page\]](http://www.cidf.net/2019-04/30/c_1124436176.htm)[\[Awardee List\]](http://www.cidf.net/2019-08/12/c_1124866586.htm) 
 
 Work Experience
 ------
@@ -42,7 +42,11 @@ Work Experience
   * Tencent Robotics-X Lab
   * Contributions: an open-source JAX-based rigid body dynamics algorithm library
   * Mentor: [Dr. Cheng Zhou](https://scholar.google.com/citations?hl=zh-CN&user=tuCDlNIAAAAJ)
-  
+
+English Proficiency
+------
+- IELTS overall Band 8.0
+
 Skills
 ------
 * Coding

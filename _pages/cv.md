@@ -68,4 +68,4 @@ Publications
 Services and Leadership
 ------
 * Reviewer Services: UbiComp, ICML, NeurIPS, JSAC, TIST, TMC
-* Currently leading an active research group of 7 master students
+* Currently leading an active and productive research group of 7 master students

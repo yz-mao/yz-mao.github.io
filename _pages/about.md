@@ -15,6 +15,7 @@ My previous research focused on artificial intelligence, with expertise in feder
 
 News
 ------
+- Had one paper accepted in ICLR 2024 Workshop on LLM Agents (04/2024).
 - Joined Tsinghua-Berkeley Shenzhen Institute as a research assistant (09/2023).
 - Had one another paper accepted in TMC (11/2023).
 - Had one paper accepted in TMC (06/2023).

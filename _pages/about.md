@@ -36,6 +36,7 @@ Publications
 - <u>Mao, Y.</u>, Zhao, Z., Yang, M., Liang, L., Liu, Y., Ding, W., Lan, T., & Zhang, X. P. (2023). **SAFARI: Sparsity-enabled federated learning with limited and unreliable communications**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3296624 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10185584/)
 - Zhao, Z.\*, <u>Mao, Y.</u>\*, Shi, Z., Liu, Y., Lan, T., Ding, W., & Zhang, X. P. (2023). **AQUILA: Communication efficient federated learning with adaptive quantization in device selection strategy**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3332901 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10319317)
 - Ping, S.\*, <u>Mao, Y.</u>\*, Liu, Y., Zhang, X. P., & Ding, W. **FL-TAC: Enhanced fine-tuning in federated learning via low-rank, task-specific adapter clustering**. In ICLR 2024 Workshop on Large Language Model (LLM) Agents [\[paper\]](https://openreview.net/forum?id=JDmAymuFFQ)
+
 (\* indicates equal contribution)
   
 Education Background

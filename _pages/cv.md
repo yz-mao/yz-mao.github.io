@@ -58,9 +58,10 @@ Skills
   * Paper Writing/Rebuttal
   * Presentation
 
-Publications
+Publications (With \* indicating equal contribution)
 ------
-- Zhao, Z., <u>Mao, Y.</u>, Shi, Z., Liu, Y., Lan, T., Ding, W., & Zhang, X. P. (2023). **AQUILA: Communication efficient federated learning with adaptive quantization of lazily-aggregated gradients**. arXiv preprint arXiv:2308.00258. [\[paper\]](https://arxiv.org/abs/2308.00258) (accepted by TMC)
+- Ping, S.\*, <u>Mao, Y.</u>\*, Liu, Y., Zhang, X. P., & Ding, W. **FL-TAC: Enhanced fine-tuning in federated learning via low-rank, task-specific adapter clustering**. In ICLR 2024 Workshop on Large Language Model (LLM) Agents [\[paper\]](https://openreview.net/forum?id=JDmAymuFFQ)
+- Zhao, Z.\*, <u>Mao, Y.</u>\*, Shi, Z., Liu, Y., Lan, T., Ding, W., & Zhang, X. P. (2023). **AQUILA: Communication efficient federated learning with adaptive quantization in device selection strategy**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3332901 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10319317)
 - <u>Mao, Y.</u>, Zhao, Z., Yang, M., Liang, L., Liu, Y., Ding, W., Lan, T., & Zhang, X. P. (2023). **SAFARI: Sparsity-enabled federated learning with limited and unreliable communications**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3296624 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10185584/)
 - Zhao, Z., <u>Mao, Y.</u>, Liu, Y., Song, L., Ouyang, Y., Chen, X., & Ding, W. (2023). **Towards efficient communications in federated learning: A contemporary survey**. Journal of the Franklin Institute (JFI), 360(12), 8669-8703. DOI: 10.1016/j.jfranklin.2022.12.053 [\[paper\]](https://arxiv.org/abs/2208.01200)
 - <u>Mao, Y.</u>, Zhao, Z., Yan, G., Liu, Y., Lan, T., Song, L., & Ding, W. (2022). **Communication-efficient federated learning with adaptive quantization**. ACM Transactions on Intelligent Systems and Technology (TIST), 13(4), 1-26. DOI: 10.1145/3510587 [\[paper\]](https://dl.acm.org/doi/full/10.1145/3510587)[\[video\]](https://youtu.be/aryLdgxRslc)

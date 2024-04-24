@@ -54,6 +54,7 @@ Research Interests
 - Distributed Systems
 - Large Pre-Trained Models
 - Generalized and Interpretable Artificial Intelligence
+- Embodied Intelligence for Well-being
 
 Reviewer Services
 ------

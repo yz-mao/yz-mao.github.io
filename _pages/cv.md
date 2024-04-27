@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Thank you for interests in my experiences. Here is my full [cv](http://yz-mao.github.io/files/Resume-Yuzhu Mao-2024.pdf) with more details. My transcripts for both [undergraduate](http://yz-mao.github.io/files/Undergraduate Transcripts-Yuzhu Mao.pdf) and [graduate](http://yz-mao.github.io/files/Graduate Transcripts-Yuzhu Mao.pdf) studies are also available here.
+Thank you for interests in my experiences. Here is my full [cv](http://yz-mao.github.io/files/Resume-Yuzhu Mao-2024.pdf) with more details. My transcripts for both [undergraduate](http://yz-mao.github.io/files/Undergraduate Transcripts-Yuzhu Mao.pdf) and [graduate](http://yz-mao.github.io/files/Graduate Transcripts-Yuzhu Mao.pdf) studies are also available here. For a brief summary of my previous research experience, please refer to these [slides](http://yz-mao.github.io/files/Research Experience-Yuzhu Mao.pdf) (updated until April 2024).
 
 Education
 ------
@@ -70,5 +70,5 @@ Publications
 
 Services and Leadership
 ------
-* Reviewer Services: UbiComp, ICML, NeurIPS, JSAC, TIST, TMC
+* Reviewer Services: UbiComp, TIST, TMC
 * Currently leading an active and productive research group of 7 master students

@@ -58,8 +58,8 @@ Research Interests
 
 Reviewer Services
 ------
-- Conferences: UbiComp, ICML, NeurIPS
-- Journals: JSAC, TIST, TMC
+- Conferences: UbiComp
+- Journals: TIST, TMC
 
 Contact
 ------

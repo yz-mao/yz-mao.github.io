@@ -13,10 +13,8 @@ Thank you for interests in my experiences. Here is my full [cv](http://yz-mao.gi
 
 Education
 ------
-- **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
-  - GPA: 3.85/4.0   
+- **MS** in Data Science and Information Technology, Tsinghua University, China (2020-2023)  
 - **BEng** in Information Security, Wuhan University, China (2016-2020)
-  - GPA: 3.87/4.0 
   
 *Note: Before transferring to the School of Cyber Science and Engineering in 2018, I spent two years studying in the School of Computer Science and Engineering in Wuhan University.
 
@@ -60,7 +58,7 @@ Skills
 
 Publications 
 ------
-- <u>Mao, Y.</u>\*, Ping, S., Zhao, Z., Liu, Y., & Ding, W. (2024). **Enhancing parameter efficiency and generalization in large-scale models: A regularized and masked low-rank adaptation approach**. arXiv preprint arXiv:2407.12074 [\[paper\]](https://arxiv.org/abs/2407.12074)
+- <u>Mao, Y.</u>, Ping, S., Zhao, Z., Liu, Y., & Ding, W. (2024). **Enhancing parameter efficiency and generalization in large-scale models: A regularized and masked low-rank adaptation approach**. arXiv preprint arXiv:2407.12074 [\[paper\]](https://arxiv.org/abs/2407.12074)
 - Ping, S.\*, <u>Mao, Y.</u>\*, Liu, Y., Zhang, X. P., & Ding, W. (2024). **FL-TAC: Enhanced fine-tuning in federated learning via low-rank, task-specific adapter clustering**. In ICLR 2024 Workshop on Large Language Model (LLM) Agents [\[paper\]](https://openreview.net/forum?id=JDmAymuFFQ)
 - Zhao, Z.\*, <u>Mao, Y.</u>\*, Shi, Z., Liu, Y., Lan, T., Ding, W., & Zhang, X. P. (2023). **AQUILA: Communication efficient federated learning with adaptive quantization in device selection strategy**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3332901 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10319317)
 - <u>Mao, Y.</u>, Zhao, Z., Yang, M., Liang, L., Liu, Y., Ding, W., Lan, T., & Zhang, X. P. (2023). **SAFARI: Sparsity-enabled federated learning with limited and unreliable communications**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3296624 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10185584/)

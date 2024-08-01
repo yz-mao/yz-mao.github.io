@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI). I hold a BEng degree from Wuhan University and an MEng degree from Tsinghua University, supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
+I am a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI). I hold a BEng degree from Wuhan University and an MS degree from Tsinghua University, supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm).
 
 My previous research focused on artificial intelligence, with expertise in federated learning systems. I was fortunate to have also received constructive comments and guidance from [Prof. Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1197.htm) (Tsinghua University), [Prof. Linqi Song](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html) (City University of Hong Kong), and [Prof. Tian Lan](https://www.seas.gwu.edu/tian-lan) (George Washington University, USA). I am currently exploring large pre-trained models and their applications in resource-limited environments. I am actively seeking opportunities for discussions or collaborative projects in these areas.
 
@@ -36,13 +36,13 @@ Publications
 - <u>Mao, Y.</u>, Zhao, Z., Yang, M., Liang, L., Liu, Y., Ding, W., Lan, T., & Zhang, X. P. (2023). **SAFARI: Sparsity-enabled federated learning with limited and unreliable communications**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3296624 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10185584/)
 - Zhao, Z.\*, <u>Mao, Y.</u>\*, Shi, Z., Liu, Y., Lan, T., Ding, W., & Zhang, X. P. (2023). **AQUILA: Communication efficient federated learning with adaptive quantization in device selection strategy**. IEEE Transactions on Mobile Computing (TMC). DOI: 10.1109/TMC.2023.3332901 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10319317)
 - Ping, S.\*, <u>Mao, Y.</u>\*, Liu, Y., Zhang, X. P., & Ding, W. (2024). **FL-TAC: Enhanced fine-tuning in federated learning via low-rank, task-specific adapter clustering**. In ICLR 2024 Workshop on Large Language Model (LLM) Agents [\[paper\]](https://openreview.net/forum?id=JDmAymuFFQ)
-- <u>Mao, Y.</u>\*, Ping, S., Zhao, Z., Liu, Y., & Ding, W. (2024). **Enhancing parameter efficiency and generalization in large-scale models: A regularized and masked low-rank adaptation approach**. arXiv preprint arXiv:2407.12074 [\[paper\]](https://arxiv.org/abs/2407.12074)
+- <u>Mao, Y.</u>, Ping, S., Zhao, Z., Liu, Y., & Ding, W. (2024). **Enhancing parameter efficiency and generalization in large-scale models: A regularized and masked low-rank adaptation approach**. arXiv preprint arXiv:2407.12074 [\[paper\]](https://arxiv.org/abs/2407.12074)
 
 (\* indicates equal contribution)
   
 Education Background
 ------
-- **MEng** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
+- **MS** in Data Science and Information Technology, Tsinghua University, China (2020-2023)
 - **BEng** in Information Security, Wuhan University, China (2016-2020)
 
 Work Experience
@@ -55,7 +55,6 @@ Research Interests
 - Distributed Systems
 - Large Pre-Trained Models
 - Generalized and Interpretable Artificial Intelligence
-- Embodied Intelligence for Well-being
 
 Reviewer Services
 ------

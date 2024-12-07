@@ -74,4 +74,4 @@ Publications
 Services and Leadership
 ------
 * Reviewer Services: UbiComp, TIST, TMC
-* Other Services: Provided guidance to junior master's students (\href{https://openreview.net/profile?id=~Siqi_Ping1}{Siqing Ping}, Jiaqi Li, Shuting Zhang) in the Smart Sensing and Robotics Group at TBSI.
+* Other Services: Provided guidance to junior master's students ([Siqing Ping](https://openreview.net/profile?id=~Siqi_Ping1), Jiaqi Li, Shuting Zhang) in the Smart Sensing and Robotics Group at TBSI, and happy to see their progress.

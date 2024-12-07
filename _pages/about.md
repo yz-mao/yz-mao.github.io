@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a researcher and senior engineer at Alipay.com Co., Ltd., focusing on multi-modal foundation models and their deployment on mobile devices. Prior to joining Alipay, I worked as a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI), where I explored **large pre-trained models** and their applications in **resource-limited environments**.
+I am currently working as a researcher and senior engineer at Alipay.com Co., Ltd., focusing on **multi-modal foundation models** and their deployment on **mobile devices**. Prior to joining Alipay, I worked as a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI), where I explored **large pre-trained models** and their applications in **resource-limited environments**.
 
 I hold a BEng degree from Wuhan University and an MS degree from Tsinghua University, where I was supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm). During my student years, my research focused on **artificial intelligence**, with an emphasis on **federated learning** systems. I was also fortunate to receive invaluable feedback and guidance from [Prof. Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1197.htm) (Tsinghua University), [Prof. Linqi Song](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html) (City University of Hong Kong), and [Prof. Tian Lan](https://www.seas.gwu.edu/tian-lan) (George Washington University, USA).
 
@@ -68,5 +68,3 @@ Contact
 ------
 - Email: myz20@tsinghua.org.cn
 - Address: Information Building 1101A, Tsinghua Shenzhen International Graduate School, Shenzhen, China
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.6827114536864!2d113.96735877376993!3d22.590967332299805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f28946a60645%3A0x4244adb2a8669d67!2z5riF5Y2O5aSn5a2m5rex5Zyz5Zu96ZmF56CU56m255Sf6Zmi!5e0!3m2!1szh-CN!2sus!4v1698898170625!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

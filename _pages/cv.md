@@ -32,7 +32,7 @@ Work Experience
     
 * Fall 2023: Research Assistant
   * Tsinghua-Berkeley Shenzhen Institute
-  * Directions: Efficient LLMs
+  * Directions: FL, Efficient LLMs
   * Supervisor: [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm)
 
 * Summer 2022: Research Intern

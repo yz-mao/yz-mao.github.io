@@ -21,14 +21,18 @@ Education
 National Awards
 ------
 - National Scholarship (10/2018)
-- Second Prize, National College Student Information Security Contest (08/2019)
+- Second Prize, National Information Security Contest for College Students (08/2019)
 - Cyber Security Scholarship (10/2019) [\[Scholarship Details Page\]](http://www.cidf.net/2019-04/30/c_1124436176.htm)[\[Awardee List\]](http://www.cidf.net/2019-08/12/c_1124866586.htm) 
 
 Work Experience
 ------
+* Summer 2024: Researcher & Senior Engineer
+  * Alipay.com Co., Ltd.
+  * Directions: AIGC, Mobile LLMs
+    
 * Fall 2023: Research Assistant
   * Tsinghua-Berkeley Shenzhen Institute
-  * Duties: research and team management
+  * Directions: Efficient LLMs
   * Supervisor: [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm)
 
 * Summer 2022: Research Intern
@@ -44,6 +48,7 @@ Work Experience
 English Proficiency
 ------
 - IELTS overall Band 8.0
+- TOEFL 109
 
 Skills
 ------
@@ -53,8 +58,6 @@ Skills
   * Ubuntu/Docker
 * Academic
   * LaTex/Zotero
-  * Paper Writing
-  * Presentation
 
 Publications 
 ------
@@ -71,4 +74,4 @@ Publications
 Services and Leadership
 ------
 * Reviewer Services: UbiComp, TIST, TMC
-* Currently leading an active and productive research group of 7 master students
+* Mentoring Services: Junior master students (\href{https://openreview.net/profile?id=~Siqi_Ping1)}{Siqing Ping}, Jiaqi Li, Shuting Zhang) in the Smart Sensing and Robotics Group at TBSI.

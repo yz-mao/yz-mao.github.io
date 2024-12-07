@@ -53,11 +53,11 @@ English Proficiency
 Skills
 ------
 * Coding
-  * Python/C/C++/CUDA
-  * PyTorch/Tensorflow
-  * Ubuntu/Docker
+  * Python / C / C++ / CUDA
+  * PyTorch / Tensorflow
+  * Ubuntu / Docker
 * Academic
-  * LaTex/Zotero
+  * LaTex / Zotero
 
 Publications 
 ------
@@ -74,4 +74,4 @@ Publications
 Services and Leadership
 ------
 * Reviewer Services: UbiComp, TIST, TMC
-* Mentoring Services: Junior master students (\href{https://openreview.net/profile?id=~Siqi_Ping1)}{Siqing Ping}, Jiaqi Li, Shuting Zhang) in the Smart Sensing and Robotics Group at TBSI.
+* Other Services: Provided guidance to junior master's students (\href{https://openreview.net/profile?id=~Siqi_Ping1}{Siqing Ping}, Jiaqi Li, Shuting Zhang) in the Smart Sensing and Robotics Group at TBSI.

@@ -14,16 +14,17 @@ I hold a BEng degree from Wuhan University and an MS degree from Tsinghua Univer
 
 News
 ------
-- Had one paper accepted in MobiCom 2024 Picasso Workshop (07/2024).
-- Had one paper accepted in ICLR 2024 Workshop on LLM Agents (04/2024).
+- Had one paper accepted by TMLR (12/2024).
+- Had one paper accepted by MobiCom 2024 Picasso Workshop (07/2024).
+- Had one paper accepted by ICLR 2024 Workshop on LLM Agents (04/2024).
 - Joined Tsinghua-Berkeley Shenzhen Institute as a research assistant (09/2023).
-- Had one another paper accepted in TMC (11/2023).
-- Had one paper accepted in TMC (06/2023).
+- Had one another paper accepted by TMC (11/2023).
+- Had one paper accepted by TMC (06/2023).
 - Completed the Master's defense (05/2023).
 - Submitted the Master's thesis (04/2023).
-- Had one survey paper accepted in JFI (01/2023).
+- Had one survey paper accepted by JFI (01/2023).
 - Joined Meituan UAV Lab as a research intern (07/2022).
-- Had one paper accepted in ACM TIST (01/2022).
+- Had one paper accepted by ACM TIST (01/2022).
 - Delivered a presentation at TBSI Workshop on Learning Theory (WOLT) and received the Best Poster Award (07/2021).
 - Joined Tencent Robotics-X Lab as a research intern (06/2021).
 - Enrolled at Tsinghua-Berkeley Shenzhen Institute as a master's student in the data science and information technology track (09/2020).

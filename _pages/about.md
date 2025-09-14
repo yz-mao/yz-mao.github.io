@@ -50,7 +50,7 @@ Education Background
 
 Work Experience
 ------
-- **Researcher & Senior Engineer** (07/2024 - Present), **Alipay.com**, Hangzhou, China  
+- **Researcher & Senior Engineer** (07/2024 - 09/2025), **Alipay.com**, Hangzhou, China  
 - **Research Intern** (06/2022 - 09/2022), **Meituan UAV Lab**, Shenzhen, China  
 - **Research Intern** (06/2021 - 09/2021), **Tencent Robotics-X Lab**, Shenzhen, China  
 

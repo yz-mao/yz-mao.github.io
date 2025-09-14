@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a researcher and senior engineer at Alipay.com Co., Ltd., focusing on **multi-modal foundation models** and their deployment on **mobile devices**. Prior to joining Alipay, I worked as a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI), where I explored **large pre-trained models** and their applications in **resource-limited environments**.
+I worked as a researcher and senior engineer at Alipay.com Co., Ltd., focusing on **multi-modal foundation models** and their deployment on **mobile devices**. Prior to joining Alipay, I was a research assistant in the [Smart Sensing and Robotics Group](https://ssr-group.net/) at the Tsinghua-Berkeley Shenzhen Institute (TBSI), where I explored **large pre-trained models** and their applications in **resource-limited environments**.
 
 I hold a BEng degree from Wuhan University and an MS degree from Tsinghua University, where I was supervised by [Prof. Wenbo Ding](https://www.tbsi.edu.cn/dwb_en/main.htm). During my student years, my research focused on **artificial intelligence**, with an emphasis on **federated learning** systems. I was also fortunate to receive invaluable feedback and guidance from [Prof. Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1197.htm) (Tsinghua University), [Prof. Linqi Song](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html) (City University of Hong Kong), and [Prof. Tian Lan](https://www.seas.gwu.edu/tian-lan) (George Washington University, USA).
 
